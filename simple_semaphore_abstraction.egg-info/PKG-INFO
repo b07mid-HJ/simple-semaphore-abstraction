@@ -1,8 +1,8 @@
 Metadata-Version: 2.2
 Name: simple-semaphore-abstraction
-Version: 0.1.1
+Version: 0.1.2
 Summary: A simple abstraction library for semaphores in Python
-Home-page: https://github.com/ahmedhajjem/semaphore-abstraction
+Home-page: https://github.com/b07mid-HJ/
 Author: Ahmed Hajjem
 Author-email: ahmed.hajjem@etudiant-isi.utm.tn
 Classifier: Programming Language :: Python :: 3
@@ -43,8 +43,8 @@ pip install semaphore-abstraction
 Or install from source:
 
 ```bash
-git clone https://github.com/ahmedhajjem/semaphore-abstraction.git
-cd semaphore-abstraction
+git clone https://github.com/b07mid-HJ/simple-semaphore-abstraction.git
+cd simple-semaphore-abstraction
 pip install -e .
 ```
 
